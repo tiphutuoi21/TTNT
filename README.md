@@ -43,7 +43,7 @@
 The architecture we used is as depicted in the
 following figure.
 <p align="center">
-  <img src="https://github.com/tiphutuoi21/TTNT/assets/architecture.png" width="1000"/>
+  <img src="https://github.com/tiphutuoi21/TTNT/blob/main/assets/architecture.png" width="1000"/>
 </p>
 
 
